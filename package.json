@@ -1,6 +1,6 @@
 {
   "name": "tatsu-api",
-  "version": "0.5.2",
+  "version": "0.6",
   "description": "Tatsu's API ",
   "main": "index.js",
   "repository": {
