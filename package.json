@@ -1,0 +1,20 @@
+{
+  "name": "tatsu-api",
+  "version": "0.5.0",
+  "description": "Tatsu's API ",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Tatsu",
+    "Discord",
+    "API"
+  ],
+  "author": "iDrunK",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
